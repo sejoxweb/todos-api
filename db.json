@@ -1,17 +1,19 @@
-[
-  {
-    "id": 1,
-    "text": "brush tooth",
-    "completed": false
-  },
-  {
-    "id": 2,
-    "text": "eat breakfast",
-    "completed": false
-  },
-  {
-    "id": 3,
-    "text": "ride cycle",
-    "completed": false
-  }
-]
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "brush tooth",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "text": "eat breakfast",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "text": "ride cycle",
+      "completed": false
+    }
+  ]
+}
